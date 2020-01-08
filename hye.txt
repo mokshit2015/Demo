@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 divsj nfjcsfjknfvjksvfnnfvdfkjvndkjnvkjnvjkkyyy
+=======
+heyyy
+moksh
+>>>>>>> fd429397ef8e2cbbcc98aa84a212166709ce1d02
